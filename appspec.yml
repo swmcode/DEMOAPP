@@ -2,7 +2,7 @@ version: 0.0
 os: windows
 files:
   - source: \
-    destination: D:\
+    destination: D:\test
 hooks:
   BeforeInstall:
     - location: \before-install.bat
